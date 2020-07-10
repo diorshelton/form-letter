@@ -1,0 +1,71 @@
+.row {
+  display: none;
+}
+
+body{
+  background-color: rgb(238, 190, 211);
+  background-size: 85rem;
+  background-repeat: no-repeat ;
+  background-position: center;
+}
+
+#formOne{
+  color: rgb(48, 51, 65);
+}
+h1{
+  color:rgb(48, 51, 65);
+  margin-bottom:1rem;
+  position: fixed, top;
+  border-bottom: thin solid black;
+}
+
+.form-group{
+  margin: 25%;
+  margin-top:0;
+  margin-bottom: 0;
+  width: 80%;
+  font-family: sans-serif;
+}
+
+button{
+  background-color: rgb(246, 224, 73);
+}
+
+.img-container img{
+  display: flex;
+  width: 95% ;
+}
+
+.img-abstract img {
+  height: auto;
+  width: 25%;
+}
+
+.form-group label {
+  font-size:1.8rem;
+}
+
+.panel-body img{
+  height: auto;
+  width: 10%;
+  margin-left: 10rem;
+}
+
+.panel-body{
+  padding: 2rem;
+  margin:5rem;
+
+}
+
+.panel{
+  margin:7rem;
+}
+.txt{
+  text-indent:4rem;
+}
+
+.panel-body button{
+ margin-left: 24rem;
+ margin-top: 5rem;
+}
+
